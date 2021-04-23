@@ -36,9 +36,9 @@
     <!-- Add demo if available -->
     <!-- <a href="https://github.com/SiddharthShyniben/repo_name">View Demo</a> -->
     <!-- · -->
-    <a href="https://github.com/SiddharthShyniben/repo_name/issues/new?body=bug_report.md">Report Bug</a>
+    <a href="https://github.com/SiddharthShyniben/template/issues/new?assignees=SiddharthShyniben&labels=bug&template=bug_report.md&title=%5BBug%5D%3A+Describe+your+bug">Report Bug</a>
     ·
-    <a href="https://github.com/SiddharthShyniben/repo_name/issues/new?body=feature_request.md">Request Feature</a>
+    <a href="https://github.com/SiddharthShyniben/template/issues/new?assignees=SiddharthShyniben&labels=enhancement&template=feature_request.md&title=%5BFeature%5D%3A+Describe+your+feature">Request Feature</a>
   </p>
 </p>
 
@@ -100,12 +100,14 @@ totam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam
 quasi aliquam eligendi, placeat qui corporis!
 
 **Ok, don't do this. Keep your about as simple as possible**
+<!-- TODO fill this -->
 
 
 
 ### Built With
 
 * [Fingers]()
+<!-- TODO fill this -->
 
 
 
@@ -113,6 +115,8 @@ quasi aliquam eligendi, placeat qui corporis!
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
+<!-- TODO fill this -->
+
 
 ### Prerequisites
 
@@ -137,12 +141,16 @@ This is an example of how to list things you need to use the software and how to
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](#documentation)_
+<!-- TODO fill this -->
+
 
 
 <!-- DOCUMENTATION -->
 ## Documentation
 
 Use this space to describe the project, linking to the [installation](#installation), the [usage](#usage), and the documentation if it's on another page (wiki and stuff)
+<!-- TODO fill this -->
+
 
 
 <!-- ROADMAP -->
@@ -165,8 +173,7 @@ Contributions are what make the open source community such an amazing place to b
 
 For more info, see [`CONTRIBUTING.md`](./CONTRIBUTING.md)
 
-Shout-out to my stargazers
-[![Stargazers repo roster for @SiddharthShyniben/repo_name](https://reporoster.com/stars/SiddharthShyniben/repo_name)](https://github.com/SiddharthShyniben/repo_name/stargazers)
+[![Stargazers repo roster for @SiddharthShyniben/repo_name; Thank you!!](https://reporoster.com/stars/SiddharthShyniben/repo_name)](https://github.com/SiddharthShyniben/repo_name/stargazers)
 
 <!-- LICENSE -->
 ## License
@@ -178,7 +185,7 @@ Distributed under the GNU General Public License v3.0. See [`LICENSE`](./LICENSE
 <!-- CONTACT -->
 ## Contact
 
-Siddharth Shyniben - - siddharth.muscat@gmail.com
+Siddharth Shyniben - siddharth.muscat@gmail.com
 
 Project Link: [https://github.com/SiddharthShyniben/repo_name](https://github.com/SiddharthShyniben/repo_name)
 
@@ -190,6 +197,7 @@ Project Link: [https://github.com/SiddharthShyniben/repo_name](https://github.co
 * [Me for the idea]()
 * [My laptop for letting me code]()
 * [Tim Berners-Lee for creating the internet]()
+<!-- TODO fill this -->
 
 
 
