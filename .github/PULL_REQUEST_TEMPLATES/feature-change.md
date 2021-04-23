@@ -13,18 +13,17 @@
 <!-- Change if necessary -->
 * The pull request must update the test suite to exercise the updated functionality.
 
-### Issue or RFC Endorsed by Atom's Maintainers
+### Issue or RFC Endorsed by project_name's Maintainers
 
 <!--
 
 Link to the issue that your change relates to. This must be one of the following:
 
 * An open issue with the `help-wanted` label
-* An open issue with the `triaged` label
 
 To contribute an enhancement that isn't covered by one of the items above, please follow our guide for suggesting an enhancement: https://github.com/SiddharthShyniben/repo_name/blob/master/CONTRIBUTING.md#suggesting-enhancements
 
-To contribute other changes, you must use a different template. You can see all templates at https://github.com/repo_name/.github/tree/master/.github/PULL_REQUEST_TEMPLATE.
+To contribute other changes, you must use a different template. You can see all templates at https://github.com/SiddharthShyniben/repo_name/tree/main/.github/PULL_REQUEST_TEMPLATES.
 
 -->
 
@@ -63,7 +62,7 @@ Describe the actions you performed (including buttons you clicked, text you type
 <!--
 
 Please describe the changes in a single line that explains this improvement in
-terms that a user can understand. This text will be used in Atom's release notes.
+terms that a user can understand. This text will be used in project_title's release notes.
 
 If this change is not user-facing or notable enough to be included in release notes
 you may use the strings "Not applicable" or "N/A" here.
